@@ -15,7 +15,7 @@ type CoverArtImageInfo struct {
 	Comment    string
 	Edit       int
 	Front      bool
-	ID         string
+	ID         int
 	Image      string
 	Thumbnails ThumbnailMap
 	Types      []string
